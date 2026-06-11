@@ -74,10 +74,7 @@ coins = {"btc","eth","sol","bnb"}
 # market_cap = {"bol","eth","sol","bnb"}
 
 
-# def coin_diff(coin_1:set, coin_2:set):
-#     result = coin_1.difference(coin_2)
 
-#     return result
 
 
 # print(coin_diff(coin_gecko, market_cap))
