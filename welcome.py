@@ -39,10 +39,10 @@
 # # # #     print("okay we will move you to the masters degree")
 # # # # price = 90000
 
-if price < 65000:
-    print("sell order")
-else:
-    print("buy order")
+# if price < 65000:
+#     print("sell order")
+# else:
+#     print("buy order")
 
 
 
@@ -123,9 +123,9 @@ else:
 
 # print(check_blood_pressuer(150, 95))
 
+#this function checks if a student is old enough to enter uni
 
-
-def can_enter_uni (age:int):
+def can_enter_uni(age:int):
     
     if age <= 15:
         return "you can not enter uni"
@@ -133,7 +133,7 @@ def can_enter_uni (age:int):
         return "you can enter uni"
 
 
-# print(can_enter_uni(19))
+can_enter_uni(19))
 
 
 # def crypto_price (order:int):
