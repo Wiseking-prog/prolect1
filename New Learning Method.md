@@ -22,7 +22,7 @@ Our New Learning Process involves the this
                 │
                 ▼
          ┌─────────────┐
-         │  Describle  │
+         │  Describe   │
          └──────┬──────┘
                 │
                 ▼
